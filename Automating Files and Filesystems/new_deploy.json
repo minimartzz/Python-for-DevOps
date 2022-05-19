@@ -1,0 +1,1 @@
+{"Statement": {"Action": "service-prefix:action-name", "Condition": {"Something": "Greater than 10"}}, "Version": "2020-10-18"}
